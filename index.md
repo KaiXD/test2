@@ -9,8 +9,8 @@
 </tr>
 </table>
 <tr>
-<td align="center"><img scr="http://wlppr.cc/uploads/wallpaper/image_iPhone6Plus/304/preview.jpg"></td>
-<td align="center"><img scr="http://wlppr.cc/uploads/wallpaper/image_iPhone6Plus/504/preview.jpg"></td>
+<td align="center"><img src="http://wlppr.cc/uploads/wallpaper/image_iPhone6Plus/304/preview.jpg">304</td>
+<td align="center"><img src="http://wlppr.cc/uploads/wallpaper/image_iPhone6Plus/504/preview.jpg">305</td>
 </tr>
 <tr>
 <td align="center">1</td>
