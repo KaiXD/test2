@@ -5,7 +5,7 @@
 <table>
 <tr>
 <td align="center"><figure><img src="http://wlppr.cc/uploads/wallpaper/image_iPhone6Plus/623/preview.jpg"><figcaption>623</figcaption></figure></td>
-<td><figure><img src="http://wlppr.cc/uploads/wallpaper/image_iPhone6Plus/304/preview.jpg"><figcaption>304</figcaption></figure></td>
+<td align="center"><figure><img src="http://wlppr.cc/uploads/wallpaper/image_iPhone6Plus/304/preview.jpg"><figcaption>304</figcaption></figure></td>
 </tr>
 </table>
 <tr>
