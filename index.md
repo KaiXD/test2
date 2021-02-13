@@ -12,8 +12,17 @@
 </td>
 </tr>
 </table>
-这是比较简单的一种方法
-<a style="float:left;"><img border=0 src="http://wlppr.cc/uploads/wallpaper/image_iPhone6Plus/623/preview.jpg" alt="prev" width="304" height="806"></a><a style="float:left;"><img border=324 src="http://wlppr.cc/uploads/wallpaper/image_iPhone6Plus/588/preview.jpg" alt="prev" width="304" height="806"></a><br>
+<br>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="center"><img scr="http://wlppr.cc/uploads/wallpaper/image_iPhone6Plus/304/preview.jpg" /></td>
+<td align="center"><img scr="http://wlppr.cc/uploads/wallpaper/image_iPhone6Plus/504/preview.jpg" /></td>
+</tr>
+<tr>
+<td align="center">1</td>
+<td align="center">2</td>
+</tr>
+</table>
 </details>
 
 You can use the [editor on GitHub](https://github.com/KaiXD/test2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
