@@ -10,7 +10,7 @@
 <summary><strong>预览</strong></summary><br>
 <table>
 <tr>
-<td align="center"><img src="http://wlppr.cc/uploads/wallpaper/image_iPhone6Plus/623/preview.jpg"><p>623</p></td>
+<td align="center"><img src="https://raw.githubusercontent.com/KaiXD/WLPPR2/main/wallpapers/623_Common.png"><p>623</p></td>
 <td align="center"><a href="https://raw.githubusercontent.com/KaiXD/WLPPR2/main/wallpapers/304_Common.png"><img src="http://wlppr.cc/uploads/wallpaper/image_iPhone6Plus/304/preview.jpg"></a><p>304</p></td>
 </tr>
 </table>
