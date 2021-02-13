@@ -2,7 +2,7 @@
 
 <details>
 <summary><strong>所有日志</strong></summary><br>
-<a style="float:left;"><img border=0 src="http://wlppr.cc/uploads/wallpaper/image_iPhone6Plus/623/preview.jpg" alt="prev" width="304" height="806"></a><a style="float:left;"><img border=20 src="http://wlppr.cc/uploads/wallpaper/image_iPhone6Plus/588/preview.jpg" alt="prev" width="304" height="806"></a><br>
+<a style="float:left;"><img border=0 src="http://wlppr.cc/uploads/wallpaper/image_iPhone6Plus/623/preview.jpg" alt="prev" width="304" height="806"></a><a style="float:right;"><img border=20 src="http://wlppr.cc/uploads/wallpaper/image_iPhone6Plus/588/preview.jpg" alt="prev" width="304" height="806"></a><br>
 </details>
 
 You can use the [editor on GitHub](https://github.com/KaiXD/test2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
