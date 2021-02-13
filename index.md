@@ -5,15 +5,13 @@
 <table>
 <tr>
 <td>
-<a><img src="http://wlppr.cc/uploads/wallpaper/image_iPhone6Plus/623/preview.jpg"></a>
+<a><img src="http://wlppr.cc/uploads/wallpaper/image_iPhone6Plus/623/preview.jpg" title="623"></a>
 </td>
 <td>
-<a><img src="http://wlppr.cc/uploads/wallpaper/image_iPhone6Plus/304/preview.jpg"></a>
+<a><img src="http://wlppr.cc/uploads/wallpaper/image_iPhone6Plus/304/preview.jpg" title="304"></a>
 </td>
 </tr>
 </table>
-<br>
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td align="center"><img scr="http://wlppr.cc/uploads/wallpaper/image_iPhone6Plus/304/preview.jpg"></td>
 <td align="center"><img scr="http://wlppr.cc/uploads/wallpaper/image_iPhone6Plus/504/preview.jpg"></td>
