@@ -5,10 +5,10 @@
 <table>
 <tr>
 <td>
-<a><img src="http://wlppr.cc/uploads/wallpaper/image_iPhone6Plus/623/preview.jpg" title="623"></a>
+<figure><img src="http://wlppr.cc/uploads/wallpaper/image_iPhone6Plus/623/preview.jpg"></figure>
 </td>
 <td>
-<a><img src="http://wlppr.cc/uploads/wallpaper/image_iPhone6Plus/304/preview.jpg" title="304"></a>
+<figure><img src="http://wlppr.cc/uploads/wallpaper/image_iPhone6Plus/304/preview.jpg"></figure>
 </td>
 </tr>
 </table>
