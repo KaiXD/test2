@@ -8,14 +8,6 @@
 <td align="center"><a href="https://raw.githubusercontent.com/KaiXD/WLPPR2/main/wallpapers/304_Common.png"><img src="http://wlppr.cc/uploads/wallpaper/image_iPhone6Plus/304/preview.jpg"></a><p>304</p></td>
 </tr>
 </table>
-<tr>
-
-<table>
-<tr>
-<td align="center"><img src="http://wlppr.cc/uploads/wallpaper/image_iPhone6Plus/304/preview.jpg">304</td>
-<td align="center"><img src="http://wlppr.cc/uploads/wallpaper/image_iPhone6Plus/504/preview.jpg">305</td>
-</tr>
-</table>
 </details>
 
 You can use the [editor on GitHub](https://github.com/KaiXD/test2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
