@@ -5,7 +5,7 @@
 <table>
 <tr>
 <td align="center"><a href="https://raw.githubusercontent.com/KaiXD/WLPPR2/main/wallpapers/623_Common.png"><img src="http://wlppr.cc/uploads/wallpaper/image_iPhone6Plus/623/preview.jpg"><p>623</p></a></td>
-<td align="center"><a><img src="https://raw.githubusercontent.com/KaiXD/WLPPR2/main/wallpapers/304_Common.png"><p>304</p></a></td>
+<td align="center"><a href="https://raw.githubusercontent.com/KaiXD/WLPPR2/main/wallpapers/304_Common.png"><img src="http://wlppr.cc/uploads/wallpaper/image_iPhone6Plus/304/preview.jpg"><p>304</p></a></td>
 </tr>
 </table>
 <tr>
