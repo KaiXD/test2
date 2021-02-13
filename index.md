@@ -2,6 +2,17 @@
 
 <details>
 <summary><strong>所有日志</strong></summary><br>
+<table>
+<tr>
+<td>
+<a><img src="http://wlppr.cc/uploads/wallpaper/image_iPhone6Plus/623/preview.jpg"></a>
+</td>
+<td>
+<a><img src="http://wlppr.cc/uploads/wallpaper/image_iPhone6Plus/304/preview.jpg"></a>
+</td>
+</tr>
+</table>
+这是比较简单的一种方法
 <a style="float:left;"><img border=0 src="http://wlppr.cc/uploads/wallpaper/image_iPhone6Plus/623/preview.jpg" alt="prev" width="304" height="806"></a><a style="float:left;"><img border=324 src="http://wlppr.cc/uploads/wallpaper/image_iPhone6Plus/588/preview.jpg" alt="prev" width="304" height="806"></a><br>
 </details>
 
