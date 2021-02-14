@@ -9,7 +9,7 @@
 <table>
 <tr>
 <td align="center"><img src="https://raw.githubusercontent.com/KaiXD/WLPPR2/main/wallpapers/623_Common.png"><figcaption>https://raw.githubusercontent.com/KaiXD/WLPPR2/main/wallpapers/623_Common.png</figcaption></td>
-<td align="center"><img src="https://raw.githubusercontent.com/KaiXD/WLPPR2/main/wallpapers/304_Common.png"><figcaption>304</figcaption></td>
+<td align="center"><img src="https://raw.githubusercontent.com/KaiXD/WLPPR2/main/wallpapers/304_Common.png"><figcaption>https://raw.githubusercontent.com/KaiXD/WLPPR2/main/wallpapers/623_Common.png</figcaption></td>
 </tr>
 </table>
 
