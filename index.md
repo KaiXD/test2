@@ -11,7 +11,7 @@
 <td align="center"><img src="https://raw.githubusercontent.com/KaiXD/WLPPR2/main/wallpapers/623_Common.png"></td>
 <td align="center"><img src="https://raw.githubusercontent.com/KaiXD/WLPPR2/main/wallpapers/304_Common.png"></td>
 </tr>
-<td align="center"><figcaption>Convoluted Folds in Light-Toned Deposits along Ius Chasma Floor</figcaption></td><td align="center"><figcaption>Oman</figcaption></td>
+<td align="center"><figcaption>Convoluted Folds in Light-Toned Deposits along Ius Chasma Floor</figcaption></td><td align="center"><p>Oman</p></td>
 </table>
 
 <details>
