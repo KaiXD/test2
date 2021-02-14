@@ -8,7 +8,7 @@
 
 <table>
 <tr>
-<td align="center"><img src="https://raw.githubusercontent.com/KaiXD/WLPPR2/main/wallpapers/623_Common.png"><caption>623</caption></td>
+<td align="center"><img src="https://raw.githubusercontent.com/KaiXD/WLPPR2/main/wallpapers/623_Common.png"><figcaption>623</figcaption></td>
 <td align="center"><img src="https://raw.githubusercontent.com/KaiXD/WLPPR2/main/wallpapers/304_Common.png"><p>304</p></td>
 </tr>
 </table>
