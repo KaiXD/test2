@@ -8,8 +8,8 @@
 
 <table>
 <tr>
-<td align="center"><img src="https://raw.githubusercontent.com/KaiXD/WLPPR2/main/wallpapers/623_Common.png"><figcaption>https://raw.githubusercontent.com/KaiXD/WLPPR2/main/wallpapers/623_Common.png</figcaption></td>
-<td align="center"><img src="https://raw.githubusercontent.com/KaiXD/WLPPR2/main/wallpapers/304_Common.png"><figcaption>https://raw.githubusercontent.com/KaiXD/WLPPR2/main/wallpapers/623_Common.png</figcaption></td>
+<td align="center"><img src="https://raw.githubusercontent.com/KaiXD/WLPPR2/main/wallpapers/623_Common.png"><figcaption>Convoluted Folds in Light-Toned Deposits along Ius Chasma Floor</figcaption></td>
+<td align="center"><img src="https://raw.githubusercontent.com/KaiXD/WLPPR2/main/wallpapers/304_Common.png"><figcaption>Oman</figcaption></td>
 </tr>
 </table>
 
